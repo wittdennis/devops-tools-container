@@ -1,0 +1,12 @@
+name: pr
+
+on: [pull_request]
+
+jobs:
+  build:
+    uses: wittdennis/pipelines/.github/workflows/container-image-build.yaml@1.11.46
+    with:
+      image-name: devops-tools
+      create-artifacts: false
+      arm64-build-args: |
+        KUBECTL_ARCH=arm64
