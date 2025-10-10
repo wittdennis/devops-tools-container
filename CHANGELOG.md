@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.1.0](https://github.com/wittdennis/devops-tools-container/compare/610224a2a73c5f6f9e43e30302a87973e8b5bcd2..1.1.0) - 2025-10-10
+#### Features
+- add fio (flexible IO tester) - ([610224a](https://github.com/wittdennis/devops-tools-container/commit/610224a2a73c5f6f9e43e30302a87973e8b5bcd2)) - Dennis Witt
+
+- - -
+
 ## [1.0.0](https://github.com/wittdennis/devops-tools-container/compare/3bd4a87f9fca5f0c9e607d8c9ad436f6c06874b1..1.0.0) - 2025-10-09
 #### Miscellaneous Chores
 - initial commit - ([3bd4a87](https://github.com/wittdennis/devops-tools-container/commit/3bd4a87f9fca5f0c9e607d8c9ad436f6c06874b1)) - Dennis Witt
