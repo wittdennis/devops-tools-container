@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.1.1](https://github.com/wittdennis/devops-tools-container/compare/0398731737cf1c8bf480652c626cc2c6811e01b0..1.1.1) - 2025-10-21
+#### Bug Fixes
+- (**deps**) update debian:13.1 docker digest to 72547dd - ([969c2b2](https://github.com/wittdennis/devops-tools-container/commit/969c2b27115525983ec4f80a2039da44dc6cba7e)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v1.12.1 - ([0398731](https://github.com/wittdennis/devops-tools-container/commit/0398731737cf1c8bf480652c626cc2c6811e01b0)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.1.0](https://github.com/wittdennis/devops-tools-container/compare/610224a2a73c5f6f9e43e30302a87973e8b5bcd2..1.1.0) - 2025-10-10
 #### Features
 - add fio (flexible IO tester) - ([610224a](https://github.com/wittdennis/devops-tools-container/commit/610224a2a73c5f6f9e43e30302a87973e8b5bcd2)) - Dennis Witt
